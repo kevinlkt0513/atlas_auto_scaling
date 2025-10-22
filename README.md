@@ -298,7 +298,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Issue Reporting: [GitHub Issues](https://github.com/yourcompany/atlas-auto-scaling/issues)
 - Documentation: [Project Wiki](https://github.com/yourcompany/atlas-auto-scaling/wiki)
-- Contact: [admin@yourcompany.com](mailto:admin@yourcompany.com)
+- Contact: [kevin.kotsunleung@gmail.com](mailto:kevin.kotsunleung@gmail.com)
 
 ---
 

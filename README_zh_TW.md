@@ -299,7 +299,7 @@ mypy .
 
 - 問題回報：[GitHub Issues](https://github.com/yourcompany/atlas-auto-scaling/issues)
 - 文檔：[專案 Wiki](https://github.com/yourcompany/atlas-auto-scaling/wiki)
-- 聯絡：[admin@yourcompany.com](mailto:admin@yourcompany.com)
+- 聯絡：[kevin.kotsunleung@gmail.com](mailto:kevin.kotsunleung@gmail.com)
 
 ---
 
