@@ -1,0 +1,41 @@
+# Atlas Auto Scaling Script Dependencies
+# Core dependencies
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment as needed:
+
+# For advanced HTTP client features
+# httpx>=0.24.0
+
+# For better JSON handling and validation
+# pydantic>=1.10.0
+
+# For enhanced logging
+# structlog>=22.1.0
+
+# For configuration validation
+# jsonschema>=4.0.0
+
+# For metrics and monitoring
+# prometheus-client>=0.15.0
+
+# For database logging (optional)
+# sqlalchemy>=1.4.0
+# psycopg2-binary>=2.9.0
+
+# For email notifications
+# secure-smtplib>=0.1.0
+
+# For Slack integration
+# slack-sdk>=3.19.0
+
+# For webhook testing
+# pytest>=7.0.0
+# pytest-mock>=3.10.0
+
+# For development
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=0.991
